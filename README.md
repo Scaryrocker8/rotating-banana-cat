@@ -1,4 +1,4 @@
-[title](icon.png)
+![title](icon.png)
 
 # Rotating Banana Cat
 
