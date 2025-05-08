@@ -1,7 +1,7 @@
-# Readme
+[!title](icon.png)
 
-A 3D model viewer written in Rust that can load glTF/glb files and can be viewed by a set camera.
+# Rotating Banana Cat
+
+A 3D model viewer written in Bevy Rust that can load glTF/glb files and be viewed by a fixed camera.
 
 I present to you, rotating banana cat!
-
-Made in Bevy
